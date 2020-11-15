@@ -34,7 +34,7 @@ public class Program {
 
             case 2:
 
-                com.main.SimpanMasukan simpanMasukan = new com.main.SimpanMasukan(getPesanInput("Masukkan pesan rahasia baru: "));
+                com.main.SimpanMasukan simpanMasukan = new com.main.SimpanMasukan(getPesanInput("Berikan masukkan Anda : "));
                 simpanMasukan.eksekusi();
 
                 break;
