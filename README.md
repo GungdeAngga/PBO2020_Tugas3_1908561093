@@ -1,1 +1,8 @@
-# PBO2020_Tugas3_1908561093
+# Tugas 2 PBO
+Contoh program OOP
+
+
+# Identitas 
+-Nama : A. A. Gede Agung Angga Aditya
+
+-NIM  : 1908561093
