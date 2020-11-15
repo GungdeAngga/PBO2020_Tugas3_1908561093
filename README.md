@@ -1,4 +1,4 @@
-# Tugas 2 PBO
+# Tugas 3 PBO
 Contoh program OOP
 
 
